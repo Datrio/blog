@@ -18,19 +18,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Dariusz Siedlecki
+email: me@dariuszsiedlecki.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the blog of Dariusz Siedlecki, sharing insights
+  on how to be an Engineering Manager. Dive into my thoughts where
+  we combines theories, strategies, and real-life experiences
+  to empower both current and aspiring Engineering Managers.
+  Explore the blend of technical, strategic, and people management
+  skills needed for success.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+domain: "blog.dariuszsiedlecki.com"
+url: "https://blog.dariuszsiedlecki.com"
+language: "en"
+lang_direction: "ltr"
+twitter_username: datriowastaken
+github_username:  datrio
 
 # Build settings
-theme: minima
+theme: jekyll-theme-persephone
 plugins:
   - jekyll-feed
 
