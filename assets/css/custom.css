@@ -1,3 +1,9 @@
+@media (prefers-color-scheme: dark) {
+  html {
+    filter: invert(100%) hue-rotate(180deg);
+  }
+}
+
 .content svg {
   display: block;
   margin: 2em auto;
