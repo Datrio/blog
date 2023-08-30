@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Technical OKRs"
-date:   2023-08-23 20:30:27 +0200
-categories: technical okr measurement
+date:   2023-08-23 20:27:27 +0200
+categories: measuring
 ---
 
 Measuring success is tough, don’t you think? At first, it seems a simple question - just measure how much revenue the company generates, or how effectively the team develops features. But when you examine the details, it quickly becomes complicated - and it gets even more challenging when discussing how to measure an individual contributor’s success.
@@ -23,7 +23,7 @@ Conversely, you might have a person who codes as if they’re an AI (regardless 
 
 In my experience, and this might be a controversial opinion, OKRs shouldn’t be too rigid or too loose. They should provide guidance without limiting innovation and creativity. If our measures are too strict, we risk stifling the team’s ability to think creatively. Yet if they’re too relaxed, team members may not know what to focus on, and therefore, may not deliver their best work.
 
-## Getting Down to Brass Tacks
+## Getting down to brass tacks
 
 So, how should we approach this? Well, to measure objectives and key results effectively, we need a combination of quantitative and qualitative methods. Team performance can be quantitively measured through metrics like **the number of tasks completed, time spent developing a task, number of bugs resolved, or projects delivered.**
 
@@ -31,12 +31,14 @@ For individual contributors, quantitative factors, such as **the number of code 
 
 One of my favorite mottos is, _“not everything that can be counted counts, not everything that counts can be counted.” <sup>[William Bruce Cameron](https://www.goodreads.com/author/show/4019196.William_Bruce_Cameron)</sup>_ So, while numbers are important, they only tell half the story. We should also consider the qualities that bring unique value to the team and the organization.
 
-## Tools and Techniques
+## But how to track it?
 
 TODO: Ideas on how to track specifically
 
-## Integrating it All Together
+## Integrating it all together
 
 Measuring OKRs for teams and individuals is no small feat. It demands a wise blend of hard metrics and soft skills, a nuanced understanding of every individual’s uniqueness and the team’s synergies. Measuring OKRs can indeed be a challenge, but remember, it’s a challenge worth embracing. By measuring OKRs effectively, we can ensure our engineering teams are focused, motivated, and more successful than ever - a goal we’re all undoubtedly striving for.
 
 TODO: write something about joining a new team and what to focus on
+
+## More examples

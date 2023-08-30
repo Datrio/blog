@@ -9,3 +9,16 @@
   margin: 2em auto;
   width: 80%;
 }
+
+a.logo img {
+  width: 2.5em;
+  margin-top: .5em;
+}
+
+#archiveBtn {
+  font-size: 0;
+}
+#archiveBtn:after {
+  font-size: 1.2rem;
+  content: "Back"
+}
