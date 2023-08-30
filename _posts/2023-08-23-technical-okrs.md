@@ -19,7 +19,7 @@ For instance, one of our top contributors last year didn’t necessarily produce
 
 Conversely, you might have a person who codes as if they’re an AI (regardless of whether they use ChatGPT or not). If you ask them to write unit tests or to create a new service according to specs, they deliver perfection. Their impact should also be considered when evaluating OKRs.
 
-TODO: add image
+{% include images/2023-08-23-technical-okrs-image-1.svg %}
 
 In my experience, and this might be a controversial opinion, OKRs shouldn’t be too rigid or too loose. They should provide guidance without limiting innovation and creativity. If our measures are too strict, we risk stifling the team’s ability to think creatively. Yet if they’re too relaxed, team members may not know what to focus on, and therefore, may not deliver their best work.
 

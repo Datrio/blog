@@ -41,6 +41,9 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+head_code: |
+  <link rel="stylesheet" href="/assets/css/custom.css" />
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
