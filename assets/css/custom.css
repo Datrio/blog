@@ -22,3 +22,6 @@ a.logo img {
   font-size: 1.2rem;
   content: "Back"
 }
+.post__contact p {
+  line-height: 1.5em;
+}

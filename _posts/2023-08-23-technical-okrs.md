@@ -3,6 +3,7 @@ layout: post
 title:  "Technical OKRs"
 date:   2023-08-23 20:27:27 +0200
 categories: measuring
+keywords: OKRs Measurement, Engineering Team Objectives, Managing IT Teams, Performance Metrics for Engineers, Track Engineering Results, Evaluate Tech Team Performance, Effective OKR practice
 ---
 
 Measuring success is tough, don’t you think? At first, it seems a simple question - just measure how much revenue the company generates, or how effectively the team develops features. But when you examine the details, it quickly becomes complicated - and it gets even more challenging when discussing how to measure an individual contributor’s success.
@@ -42,3 +43,5 @@ Measuring OKRs for teams and individuals is no small feat. It demands a wise ble
 TODO: write something about joining a new team and what to focus on
 
 ## More examples
+
+TODO
