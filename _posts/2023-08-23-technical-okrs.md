@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Technical OKRs"
-date:   2023-08-23 20:27:27 +0200
+title: "Technical OKRs"
 categories: measuring
 keywords: OKRs Measurement, Engineering Team Objectives, Managing IT Teams, Performance Metrics for Engineers, Track Engineering Results, Evaluate Tech Team Performance, Effective OKR practice
 ---

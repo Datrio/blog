@@ -25,3 +25,7 @@ a.logo img {
 .post__contact p {
   line-height: 1.5em;
 }
+.post__meta time:after {
+  content: " | ";
+  padding: 0 .5em;
+}
