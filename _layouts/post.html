@@ -24,6 +24,13 @@ layout: default
       <h1 class="post__title">{{ page.title | escape }}</h1>
       <div class="post__meta">
         <time>{{ page.date | date: "%Y-%m-%d" }}</time>
+        {% assign reading_time = content | strip_html | number_of_words | divided_by: 160 %}
+        {% if reading_time <= 1 %}
+        {% assign reading_time = "1 min" %}
+        {% else %}
+        {% assign reading_time = reading_time | append: " mins" %}
+        {% endif %}
+        <span>approx. {{ reading_time }} read</span>
       </div>
     </header>
     <div class="post__content content">
