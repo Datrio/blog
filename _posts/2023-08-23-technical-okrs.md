@@ -3,7 +3,16 @@ layout: post
 title: "Technical OKRs"
 categories: measuring
 keywords: OKRs Measurement, Engineering Team Objectives, Managing IT Teams, Performance Metrics for Engineers, Track Engineering Results, Evaluate Tech Team Performance, Effective OKR practice
+tldr:
+  - Measuring individual success can be complex; Technical OKRs (Objectives and Key Results) help by providing clear goals and a roadmap.
+  - The measurement of OKRs must balance quality and impact of work, not just quantity.
+  - Performance can be measured quantitatively (task completion, bug resolution) and qualitatively (individual achievements, collaboration). Both are important.
+  - To define effective OKRs, align them with company objectives, ensure they're challenging yet realistic, transparent, and involve the team in the decision process.
+  - Introducing new OKRs requires clear communication, smooth transition, required tools and resources, and continuous feedback.
+  - For tracking OKRs, use suitable tools and ensure regular check-ins, updates, and celebration of milestones for continuous improvement.
+
 ---
+
 Measuring success is tough, don’t you think? At first, it seems a simple question - just measure how much revenue the company generates, or how effectively the team develops features. But when you examine the details, it quickly becomes complicated - and it gets even more challenging when discussing how to measure an individual contributor’s success.
 
 Today, I want to discuss **technical OKRs (Objectives and Key Results)**. In every company I’ve joined, this topic has been a constant point of discussion - there are as many opinions on how to handle it as there are engineering leaders.

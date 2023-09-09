@@ -46,9 +46,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-head_code: |
-  <link rel="stylesheet" href="/assets/css/custom.css" />
-
 logo: /assets/logo.svg
 
 theme_setting:

@@ -31,6 +31,12 @@ layout: default
         {% assign reading_time = reading_time | append: " mins" %}
         {% endif %}
         <span>approx. {{ reading_time }} read</span>
+        <a tabindex="0" data-bs-toggle="popover" title="GPT4 tl;dr;">tl;dr;</a>
+        <div class="tldr">
+          <ul>
+            <li>{{ page.tldr | join: "</li><li>" }}</li>
+          </ul>
+        </div>
       </div>
     </header>
     <div class="post__content content">

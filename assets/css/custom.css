@@ -25,7 +25,17 @@ a.logo img {
 .post__contact p {
   line-height: 1.5em;
 }
-.post__wrapper .post__meta time:after {
+.post__wrapper .post__meta time:after, .post__wrapper .post__meta span:after {
   content: " | ";
   padding: 0 .5em;
+}
+
+div.tldr {
+  display: none;
+}
+.popover {
+  max-width: calc( var(--content-width) - 4em) 
+}
+.bs-popover-auto[data-popper-placement^=bottom]>.popover-arrow::after, .bs-popover-bottom>.popover-arrow::after {
+  border-bottom-color: red;
 }
