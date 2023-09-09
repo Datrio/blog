@@ -37,5 +37,5 @@ div.tldr {
   max-width: calc( var(--content-width) - 4em) 
 }
 .bs-popover-auto[data-popper-placement^=bottom]>.popover-arrow::after, .bs-popover-bottom>.popover-arrow::after {
-  border-bottom-color: red;
+  border-bottom-color: var(--bs-popover-header-bg);
 }
