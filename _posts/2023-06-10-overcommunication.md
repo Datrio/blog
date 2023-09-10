@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Over-communication"
+title: "The Importance of Over-communicating"
 categories: people-management
 keywords: Over-communication, Management, High-impact meetings, Clear updates, Missed deadlines, Written communication, Project information, Communication frequency, Productivity, Balance amidst chaos
 tldr:
