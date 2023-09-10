@@ -39,3 +39,10 @@ div.tldr {
 .bs-popover-auto[data-popper-placement^=bottom]>.popover-arrow::after, .bs-popover-bottom>.popover-arrow::after {
   border-bottom-color: var(--bs-popover-header-bg);
 }
+
+body {
+  --bs-heading-color: var(--dark);
+}
+a {
+  text-decoration: none;
+}
